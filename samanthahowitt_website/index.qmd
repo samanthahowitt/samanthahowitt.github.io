@@ -6,10 +6,10 @@ Welcome to my personal website! I'm learning how to make a webpage to share my r
 
 ::: {layout="\[\[1,1\], \[1,\]\]"}
 
-\![\](pictures/mussel_cluster.png)
+\![\](./pictures/mussel_cluster.png)
 
-\![\](pictures/mussels_jetty.png)
+\![\](./pictures/mussels_jetty.png)
 
-\![\](pictures/rocky_intertidal.jpg)
+\![\](./pictures/rocky_intertidal.jpg)
 
 :::
