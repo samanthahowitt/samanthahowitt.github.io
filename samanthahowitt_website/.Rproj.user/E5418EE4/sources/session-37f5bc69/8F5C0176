@@ -3,7 +3,7 @@
     "path": "C:/Users/uqshowit/Documents/GitHub/samanthahowitt.github.io/samanthahowitt_website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "4185829690",
+    "hash": "1713473673",
     "contents": "",
     "dirty": false,
     "created": 1715927226580.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "142:0",
+        "rmdVisualModeLocation": "291:100",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716186589,
+    "lastKnownWriteTime": 1716187010,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716186589851,
+    "last_content_update": 1716187010573,
     "read_only": false,
     "read_only_alternatives": []
 }
