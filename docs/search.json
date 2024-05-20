@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Samantha Howitt",
     "section": "",
-    "text": "Welcome to my personal website! I’m learning how to make a webpage to share my research, more coming soon!"
+    "text": "Welcome to my personal website! I’m learning how to make a webpage to share my research, more coming soon!\n:::{layout=“[[1,1], [1,]}\n!(pictures/mussel_cluster.jpg)\n!(pictures/mussels_jetty.jpg)\n!(pictures/rocky_intertidal.jpg)\n:::"
   },
   {
     "objectID": "about.html",
