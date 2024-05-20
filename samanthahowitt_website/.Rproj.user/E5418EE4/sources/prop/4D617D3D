@@ -1,12 +1,12 @@
 {
-    "rmdVisualMode": "true",
+    "rmdVisualMode": "false",
     "rmdVisualWrapConfigured": "true",
     "source_window_id": "",
     "Source": "Source",
     "docOutlineVisible": "1",
     "rmdVisualCollapsedChunks": "",
-    "rmdVisualModeLocation": "223:100",
-    "cursorPosition": "0,0",
+    "rmdVisualModeLocation": "223:0",
+    "cursorPosition": "12,2",
     "scrollLine": "0",
     "chunk_output_type": "console"
 }
