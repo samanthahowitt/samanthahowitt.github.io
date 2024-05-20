@@ -10,6 +10,6 @@ Welcome to my personal website! I'm learning how to make a webpage to share my r
 
 \![\](pictures/mussels_jetty.png)
 
-\![\](pictures/rocky_intertidal.jpg)quarto
+\![\](pictures/rocky_intertidal.jpg)
 
 :::
