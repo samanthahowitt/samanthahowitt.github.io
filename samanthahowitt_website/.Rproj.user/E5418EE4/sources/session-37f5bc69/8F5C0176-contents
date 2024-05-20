@@ -6,9 +6,10 @@ editor_options:
 
 Welcome to my personal website! I'm learning how to make a webpage to share my research, more coming soon!!
 
+::: {layout="[[1,1], [1]]"}
 ![](pictures/mussel_cluster.png)
 
 ![](pictures/mussels_jetty.png)
 
 ![](pictures/rocky_intertidal.jpg)
-
+:::
