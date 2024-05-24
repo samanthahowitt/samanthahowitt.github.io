@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Samantha Howitt",
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Welcome to my personal website! I’m learning how to make a webpage to share my research, more coming soon!!"
+    "text": "Popovic I, Bergeron LA, Bozec YM, Waldvogel AM, Howitt SM, et al. (2024) High germline mutation rates, but not extreme population outbreaks, influence genetic diversity in a keystone coral predator. PLOS Genetics 20(2): e1011129. https://doi.org/10.1371/journal.pgen.1011129"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Publications.html#section",
+    "href": "Publications.html#section",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Popovic I, Bergeron LA, Bozec YM, Waldvogel AM, Howitt SM, et al. (2024) High germline mutation rates, but not extreme population outbreaks, influence genetic diversity in a keystone coral predator. PLOS Genetics 20(2): e1011129. https://doi.org/10.1371/journal.pgen.1011129"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Hello! I’m Sam, a PhD candidate in the Riginos Lab at the University of Queensland. I’m learning how to make a webpage to share my research, more coming soon!!\n\n\nResearch interests\n\n\nEducation"
   }
 ]
