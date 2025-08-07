@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.qmd
+      - href: Publications.qmd
         text: Research
 
 format:
