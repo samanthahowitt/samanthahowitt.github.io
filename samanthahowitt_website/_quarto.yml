@@ -3,12 +3,13 @@ project:
   output-dir: ../docs
 
 website:
-  title: "samanthahowitt_website"
+  title: "Samantha Howitt"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: publications.qmd
+        text: Research
 
 format:
   html:
